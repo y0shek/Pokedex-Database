@@ -1,0 +1,11 @@
+ABRA PSYCHIC 35 Using its ability to read minds, it will identify impending danger and TELEPORT to safety.
+BULBASAUR GRASS 28 A strange seed was planted on its back at birth. The plant sprouts and grows with this POKEMON.
+CHARIZARD FIRE 67 Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.
+HAUNTER GHOST 63 Because of its ability to slip through block walls, it is said to be from another dimension.
+JOLTEON ELECTRIC 31 It accumulates negative ions in the atmosphere to blast out 10000 volt lightning bolts.
+MEWTWO PSYCHIC 79 It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.
+ODDISH GRASS 20 During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.
+ONIX ROCK 28 As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.
+PIDGEY FLYING 12 A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.
+PIKACHU ELECTRIC 16 When several of these POKEMON gather, their electricity could build and cause lightning storms.
+SCYTHED FLYING 59 With ninja-like agility and speed, it can create the illusion that there is more than one.
